@@ -1,10 +1,10 @@
-###Azure Monitoring Script
+### Azure Monitoring Script
 
-##Overview
+## Overview
 
 This Terraform script automates the creation of a Linux virtual machine in Azure. It includes the setup of a resource group, virtual private network, subnets, and other necessary dependencies for efficient server operation. Additionally, a custom data template file is included to install and configure specific features on the server upon its automatic creation.
 
-###Steps to Run the Script
+### Steps to Run the Script
 
 Clone Repository: Clone this repository to your local machine.
 
